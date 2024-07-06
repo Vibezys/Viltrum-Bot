@@ -27,4 +27,4 @@ async def on_message(message):
     #process commands if any are added later
     await bot.process_commands(message)
 
-bot.run('MTI1ODk5NzgwMDMyNzQ1MDc1NQ.GMopq3.ZEm_ZyI3uEGzTvXnBcQDdnLd4iSjYyQeSytdKQ')
+bot.run('YOURE_BOT_TOKEN')
